@@ -1,0 +1,1 @@
+Create an output screenshot for each task after running it in VS Code, then save it in the matching Task01 ... Task12 folder.
